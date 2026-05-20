@@ -1,6 +1,6 @@
 {
   "version": "1.0.0.2",
-  "downloadUrl": "https://github.com/SonarInfotech/AutpUpdate/releases/download/v1.0.0.2/update.zip",
+  "downloadUrl": "https://github.com/SonarInfotech/AutpUpdate/raw/refs/heads/main/Patch_1.0.0.2.zip",
   "mandatory": false,
   "releaseDate": "2026-05-20",
   "changes": [
