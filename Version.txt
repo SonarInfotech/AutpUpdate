@@ -1,1 +1,11 @@
-Version~1.0.0.1
+{
+  "version": "1.0.0.2",
+  "downloadUrl": "https://github.com/SonarInfotech/AutpUpdate/releases/download/v1.0.0.2/update.zip",
+  "mandatory": false,
+  "releaseDate": "2026-05-20",
+  "changes": [
+    "Bug fixes",
+    "Performance improvements",
+    "New dashboard added"
+  ]
+}
