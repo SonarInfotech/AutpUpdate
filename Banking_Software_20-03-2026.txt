@@ -1,0 +1,12 @@
+1) ATM Reconciliation
+2) CKYC (https://cloudbankin.com/ckyc-software-solution/)
+3) Complaint management System
+4) Document Management System
+5) Audit & Compliance Tracker
+6) Autometic Regulatory Compliance Monitor.
+7) Branch performance dashboard & MIS reporting tool = (RBI Circular number: RBI/2023-24/117)
+8) Digital Banking Channels GAICA compliance report tool
+9) Antimoney Laundring System
+10) Bank Security & Cybersecurity Suite
+11) Whatspp Banking Service
+12) NACH Mandate System
