@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0.3",
-  "downloadUrl": "https://github.com/SonarInfotech/AutpUpdate/raw/refs/heads/main/Inventory_Managment_1.0.0.3.zip",
+  "version": "1.0.0.4",
+  "downloadUrl": "https://github.com/SonarInfotech/AutpUpdate/raw/refs/heads/main/Inventory_Managment_1.0.0.4.zip",
   "mandatory": false,
-  "releaseDate": "2026-07-19",
+  "releaseDate": "2026-10-08",
+  "sha256": "82d9c9a8f7f991050dd10157b161e6a52fcfe7f4d424cf6489ec5e6cdf6a3623",
   "changes": [
     "Bug fixes",
     "Performance improvements",
